@@ -6,7 +6,8 @@
     "test": "echo \"No test specified\" && exit 0",
     "dev": "next",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "export": "npm run build && next export"
   },
   "author": "Timothy @ ZEIT",
   "license": "MIT",
