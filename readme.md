@@ -1,6 +1,9 @@
 # Example of MDX in Next.js
 A really simple implementation of [MDX](https://github.com/mdx-js/mdx) inside [Next.js](https://github.com/zeit/next.js) with some cool features to show off the capability of MDX.
 
+## Live Demo
+https://mdx-example.zeit.sh/
+
 ## Developing
 ### Step 1: Installing Dependencies
 `npm install` or `yarn` (preferably npm due to the lockfile)
